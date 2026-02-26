@@ -1,1 +1,2 @@
 cafeteria
+"Hoy la cafetria está cerrada"
