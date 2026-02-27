@@ -1,2 +1,3 @@
 cafeteria
 "Hoy la cafetria está cerrada"
+nuevo mensaje:1223
